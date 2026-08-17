@@ -215,14 +215,10 @@ Final outputs will include:
 ```
 canadian_corporate_financial_analysis/
 ├── csv_files
-├── documentation/
-├── graphs/
-├── notebooks/
 ├── power_bi_dashboard/
-├── sql/
+├── .gitignore
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 
