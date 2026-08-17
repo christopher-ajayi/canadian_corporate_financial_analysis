@@ -181,19 +181,19 @@ Final outputs will include:
 
 ---
 ## Key Findings
-- The analysis covers **29 major Canadian public companies** across an unbalanced **2007–2025** financial panel. [See Dashboard](<power_bi/all_Sectors_power_bi/All_Canadia_ Companies.pdf>)
+- The analysis covers **29 major Canadian public companies** across an unbalanced **2007–2025** financial panel. [See All Comapnies Dashboard](<power_bi_dashboard/All_Canadia_ Companies.pdf>)
 
 * The companies generated approximately **$3.09T in latest revenue**, **$561.59B in net income**, and held approximately **$63.03T in assets**. 
 
-* **Toronto-Dominion Bank ($68B)** and **Royal Bank of Canada ($67B)** were the largest companies by latest revenue, followed by **Sun Life Financial**, **Bank of Nova Scotia**, and **Bank of Montreal**. [See Banking Sector](power_bi/all_Sectors_power_bi/Banking_Sector.pdf)
+* **Toronto-Dominion Bank ($68B)** and **Royal Bank of Canada ($67B)** were the largest companies by latest revenue, followed by **Sun Life Financial**, **Bank of Nova Scotia**, and **Bank of Montreal**. [See Banking Sector](power_bi_dashboard/Banking_Sector.pdf)
 
 * Average revenue growth was approximately **14.2%**, while the latest year recorded approximately **$405.63B in revenue growth** across all companies.
 
-* **Sun Life Financial** was the strongest growth performer at approximately **62.4%**, followed by **Fortis (33.5%)** and **Shopify (27.3%)**. [See Financial Services Sector](power_bi/all_Sectors_power_bi/Financial_Services_Sector.pdf)
+* **Sun Life Financial** was the strongest growth performer at approximately **62.4%**, followed by **Fortis (33.5%)** and **Shopify (27.3%)**. [See Financial Services Sector](power_bi_dashboard/Financial_Services_Sector.pdf)
 
 * Revenue scale and profitability were not directly proportional; several smaller companies demonstrated strong profitability despite having substantially lower revenues than the largest firms.
 
-* **Banking and Financial Services** represented the largest concentrations in the sector analysis, highlighting the importance of financial institutions to the analysis. [See Banking Sector](power_bi/all_Sectors_power_bi/Banking_Sector.pdf)
+* **Banking and Financial Services** represented the largest concentrations in the sector analysis, highlighting the importance of financial institutions to the analysis. [See Banking Sector](power_bi_dashboard/Banking_Sector.pdf)
 
 * Cash flow showed substantial historical volatility, reaching approximately **$0.52T in 2020** before declining considerably in subsequent years.
 
