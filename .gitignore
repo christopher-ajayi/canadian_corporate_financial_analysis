@@ -3,3 +3,4 @@ config/
 src/extract/__pycache__
 src/transform/__pycache__
 src/validation/inspect_sec_json.py
+src/validation/test_config.py
