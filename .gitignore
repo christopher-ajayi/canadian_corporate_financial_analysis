@@ -1,5 +1,5 @@
-/python
-/data
-/config
-/database
-Project Title.txt
+src/extract/__pycache__
+src/transform/__pycache__
+scr/validation_inspect_sec_json.py
+/raw
+.project_plan

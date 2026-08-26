@@ -1,0 +1,16 @@
+company_id,income_statement,balance_sheet,cash_flow,missing_income_metrics
+1,YES,YES,YES,"gross_profit, operating_income"
+2,YES,YES,YES,"gross_profit, operating_income"
+3,YES,YES,YES,"gross_profit, operating_income"
+4,YES,YES,YES,gross_profit
+5,YES,YES,YES,revenue
+6,YES,YES,YES,gross_profit
+10,YES,YES,YES,gross_profit
+11,YES,YES,YES,None
+13,YES,YES,YES,gross_profit
+14,NO,YES,YES,"revenue, gross_profit, operating_income, net_income"
+15,YES,YES,YES,gross_profit
+16,YES,YES,YES,None
+17,YES,YES,YES,None
+18,YES,YES,YES,None
+20,YES,YES,YES,"gross_profit, operating_income"
