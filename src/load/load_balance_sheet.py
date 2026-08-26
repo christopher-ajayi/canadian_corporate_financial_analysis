@@ -18,7 +18,7 @@ sys.path.append(
 )
 
 
-from daytascape_db_core.connection import get_db_engine
+from database_db_core.connection import get_db_engine
 
 from config.companies import COMPANIES
 

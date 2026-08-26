@@ -5,7 +5,7 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 sys.path.append(str(PROJECT_ROOT))
 
-from daytascape_db_core.connection import get_db_engine
+from database_db_core.connection import get_db_engine
 
 
 def add_date_id(df, engine):
