@@ -1,5 +1,4 @@
 src/extract/__pycache__
 src/transform/__pycache__
-scr/validation_inspect_sec_json.py
-/raw
-.project_plan
+src/validation/inspect_sec_json.py
+project_plan.txt
