@@ -1,4 +1,5 @@
 raw/
+/csv_files
 config/
 src/extract/__pycache__
 src/transform/__pycache__
