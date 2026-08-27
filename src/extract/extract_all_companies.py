@@ -16,7 +16,7 @@ from config.companies import COMPANIES
 
 
 HEADERS = {
-    "User-Agent": "DaytaScape financial research your_email@example.com"
+    "User-Agent": "database financial research your_email@example.com"
 }
 
 
